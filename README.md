@@ -1,5 +1,5 @@
 # 5-in-1-CS_projects
-Implementation of some of important concepts and library/assemblies in C# in a single GUI project
+Implementation of some of important concepts and library/assemblies in C# in a single GUI project <br>
 Hi! Here you will find some of the useful c# concepts implemented in form GUI Application.<br>
 It includes-
 <ul>
